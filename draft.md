@@ -107,8 +107,6 @@ Release Date: 2017-12-25
 
 + [`jekyllthat`](https://github.com/ColinFay/jekyllthat) - RMarkdown to Github Jekyll md
 
-+ [`tailr`](https://cran.r-project.org/web/packages/tailr/) — Automatic translation of tail-recursive functions into looping functions. 
-
 + [Nov 2017: New Package Picks](https://rviews.rstudio.com/2017/12/22/nov-2017-new-package-picks/)
 
 ### Package Releases
